@@ -1,0 +1,26 @@
+{
+  "name": "alexsanderkopyl/helloworld",
+  "description": "first module for magento in github",
+  "type": "magento2-module",
+  "version": "v1.0.0",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "alexsander",
+      "email": "alexsander11115@gmail.com",
+      "homepage": "https://github.com/AlexanderKopyl/HelloWorld",
+      "role": "Leader"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "AlexsanderKopyl\\Helloworld\\": ""
+    }
+  }
+}
