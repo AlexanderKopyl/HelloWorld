@@ -2,7 +2,7 @@
   "name": "alexsanderkopyl/helloworld",
   "description": "first module for magento in github",
   "type": "magento2-module",
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
